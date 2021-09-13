@@ -1,1 +1,55 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Alexander Carufel</title>
+</head>
+<body>
+   <div class="header">
+     <h1>Alexander Carufel<h1/>
+     <h5> 1160 Cushing Circle, St. Paul, MN 55108    Carual42@gmail.com    (612)990-1280<h5/>
+   </div>
+   <div class="header">
+     <h3> Profile </h3>
+   </div>
+   <div>
+      <h6> Driven and committed to providing excellent patient care and a positive patient experience. Strong ability to communicate and help patients feel comfortable and to enhance our work environment and improve cohesion between staff. Task oriented with a demonstrated ability to multi-task. </h6>
+   </div>
+   <div class="header">
+      <h3> Education </h3>
+   </div>
+   <div>
+       <u1> 
+         <li>St. Cloud Technical & Community College May 2016
+         </li>
+         <li> Paramedicine AAS Degree GPA 3.0 </li>
+         <li> Paramedicine Program (CAAHEP) Accredited</li>
+   </div>
+     <div class="header">
+      <h3> Certifications </h3>
+     </div>
+       <u1>
+         <li>Advanced Cardiac Life Support (ACLS Provider)</li>
+         <li>Pediatric Advanced Life Support (PALS Provider)</li>
+         <li>Pediatric Emergencies for the Prehospital Professional (PEPP Provider)</li>
+         <li>AHA CPR</li>
+         </div>
+    <div class="header">
+      <h3> Related Experience: </h3>
+     </div>
+    <div class="sub header">
+      <h5> Regions Hospital October 2016 - Present </h5>
+     </div>
+     <h6>Manage the bay area for the radiology modules, monitor patients for allergic reactions, as well as managing a team to assist patient transportation</h6>
+     <div class="sub header">
+      <h5> Biolife March 2018 - January 2019 </h5>
+     </div>
+     <h6>Determine donor eligibility, manage donor reactions and deferrals, and preform quick physicals along with blood work review</h6>
+     <div class="sub header">
+      <h5> Healthpartners Specialty Center December 2016 - Present </h5>
+     </div>
+     <h6>Prep patients for CT scans through review of past medical history and IV access. Assisted nurse during anaphylactic reactions, cardiac episodes or other complications</h6>
+     </body>
+     
+</html>
