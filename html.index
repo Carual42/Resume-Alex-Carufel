@@ -40,16 +40,19 @@
      </div>
     <div class="sub header">
       <h5> Regions Hospital October 2016 - Present </h5>
+     <h6>Lab Service Tech</h6>
      </div>
      <h6>Manage the bay area for the radiology modules, monitor patients for allergic reactions, as well as managing a team to assist patient transportation</h6>
-     <div class="sub header">
-      <h5> Biolife March 2018 - January 2019 </h5>
-     </div>
-     <h6>Determine donor eligibility, manage donor reactions and deferrals, and preform quick physicals along with blood work review</h6>
-     <div class="sub header">
+      <div class="sub header">
       <h5> Healthpartners Specialty Center December 2016 - Present </h5>
+     <h6>Lab Service Tech</h6>
      </div>
      <h6>Prep patients for CT scans through review of past medical history and IV access. Assisted nurse during anaphylactic reactions, cardiac episodes or other complications</h6>
-     </body>
+     <div class="sub header">
+      <h5> Biolife March 2018 - January 2019 </h5>
+     <h6>Meical Support Specialist</h6>
+     </div>
+     <h6>Determine donor eligibility, manage donor reactions and deferrals, and preform quick physicals along with blood work review</h6>
+    </body>
      
 </html>
